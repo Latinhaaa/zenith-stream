@@ -2,6 +2,18 @@
 
 Uma plataforma demonstrativa de descoberta e organização de anime, recriada de forma independente para portfólio. O catálogo vem da API pública Jikan/MyAnimeList; contas, watchlist, avaliações e feedback são guardados apenas no navegador (localStorage), sem enviar dados a terceiros.
 
+## Status do projeto
+
+> **Em desenvolvimento.** A demonstração pública está funcional, mas o projeto ainda não representa uma versão final. Algumas áreas, integrações e detalhes de experiência continuam em evolução e receberão ajustes futuros.
+
+### Melhorias planejadas
+
+- Refinar a busca, os filtros e a organização do catálogo
+- Aprimorar calendário, lançamentos e conteúdo de “Em breve”
+- Evoluir autenticação, perfis e persistência de dados
+- Melhorar acessibilidade, desempenho e experiência em dispositivos móveis
+- Integrar um serviço de vídeo autorizado caso o projeto avance além da demonstração
+
 ## Demonstração online
 
 O projeto é publicado automaticamente no GitHub Pages a cada atualização da branch `main`.
